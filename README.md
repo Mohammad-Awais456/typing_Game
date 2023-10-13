@@ -1,4 +1,4 @@
-#typing_Game
+#typing_Game \n
 This is just javascript project for improving my skills.
 You can enjoy this game on below link:⬇
 
